@@ -1,4 +1,4 @@
-# Project 4: EV Cars
+# Project 4: Quantifying Impact of EV Charging Stations on Air Quality
 #### General Assembly Data Science Immersive Course - Project 4
 
 Authors: Aichieh Lin, Bede Young, and Charles Ramey
